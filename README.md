@@ -60,6 +60,6 @@ License :page_with_curl:
 Distributed under the MIT License. See LICENSE for more information.
 
 Contact :mailbox:
-Your Name - @your_twitter
+Your Name - lidorpa@ac.sce.ac.il
 
-Project Link: https://github.com/your_username/your_project_name
+Project Link: https://github.com/Lidorpahima/Circular-Queue-array
